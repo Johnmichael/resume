@@ -1,0 +1,11 @@
+.green {
+  color: green;
+}
+
+.list {
+  list-style-type: georgian;
+}
+
+*{
+  font-size: 30px
+}
